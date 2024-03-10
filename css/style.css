@@ -72,7 +72,7 @@ nav {
     background: #28282a;
     width: 80px;
     float: left;
-    height: 100vh;
+    height: 105vh;
     overflow-y: auto;
 }
 
@@ -130,7 +130,6 @@ nav {
     background: #28282a;
     border: 1px solid #28282a;
     padding: 20px;
-    height: 400px;
     transition: 0.3s;
 }
 
