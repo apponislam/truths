@@ -86,7 +86,7 @@ nav {
 }
 
 .leftnav img {
-    width: 30px;
+    width: 25px;
 }
 
 /* main area */
@@ -115,13 +115,10 @@ nav {
 }
 
 .assets {
+    flex: 1;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 50px;
-}
-
-.assets {
-    flex: 1;
+    gap: 60px;
 }
 
 .video,
@@ -135,17 +132,17 @@ nav {
 
 .video:hover {
     background: #282828;
-    border: 1px solid #fa8e00;
+    border: 1px solid #776a60;
 }
 
 .photo:hover {
     background: #282828;
-    border: 1px solid #fa8e00;
+    border: 1px solid #776a60;
 }
 
 .audio:hover {
     background: #282828;
-    border: 1px solid #fa8e00;
+    border: 1px solid #776a60;
 }
 
 .videos {
@@ -162,12 +159,12 @@ nav {
 }
 
 .videos img:hover {
-    border: 1px solid #fa8e00;
+    border: 1px solid #776a60;
 }
 
 .videos p {
     margin-bottom: 0;
-    font-size: 9px;
+    font-size: 11px;
     color: white;
     font-family: LucidaGrande;
 }
@@ -185,7 +182,7 @@ nav {
 }
 
 .photo img:hover {
-    border: 1px solid #fa8e00;
+    border: 1px solid #776a60;
 }
 
 .audioplay {
@@ -207,7 +204,7 @@ nav {
 }
 
 .passport img:hover {
-    border: 1px solid #fa8e00;
+    border: 1px solid #776a60;
 }
 
 .clients {
@@ -232,13 +229,13 @@ nav {
 
 .client:hover {
     background: #313234;
-    border: 1px solid #fa8e00;
+    border: 1px solid #776a60;
 }
 
 .client p {
     font-family: LucidaGrande;
     margin-bottom: 0;
-    font-size: 9px;
+    font-size: 11px;
     color: white;
 }
 
@@ -258,10 +255,11 @@ nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin-bottom: 40px;
 }
 
 .casepriorityhead h1 {
-    font-size: 13px;
+    font-size: 15px;
     margin-bottom: 0;
     color: white;
 }
@@ -274,11 +272,10 @@ nav {
     display: flex;
     align-items: center;
     justify-content: space-around;
-    margin-bottom: 40px;
 }
 
 .dropdwn p {
-    font-size: 11px;
+    font-size: 13px;
     margin-bottom: 0;
     color: #a9acbd;
     margin-right: 20px;
@@ -290,7 +287,7 @@ button.btn.btn-secondary.dropdown-toggle.dropdown2btn {
     padding: 12px 21px;
     border-radius: 18px;
     border: 1px solid #47494f;
-    font-size: 11px;
+    font-size: 13px;
     font-family: "Montserrat", sans-serif;
     font-weight: 400;
 }
@@ -398,7 +395,7 @@ button.btn.btn-secondary.dropdown-toggle.dropdown2btn {
 }
 
 .inbox {
-    width: 450px;
+    width: 480px;
 }
 
 .inbox h1 {
@@ -462,7 +459,7 @@ button.btn.btn-secondary.dropdown-toggle.dropdown2btn {
 }
 
 .calander {
-    width: 350px;
+    width: 390px;
 }
 
 .calandertitle {
