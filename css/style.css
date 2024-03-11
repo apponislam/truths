@@ -98,7 +98,7 @@ nav {
 }
 
 .maintitle h1 {
-    font-size: 16px;
+    font-size: 20px;
     margin-bottom: 20px;
     color: white;
     text-transform: uppercase;
@@ -111,7 +111,7 @@ nav {
     display: flex;
     justify-content: space-between;
     gap: 45px;
-    margin-bottom: 85px;
+    margin-bottom: 60px;
 }
 
 .assets {
@@ -214,7 +214,7 @@ nav {
 .clients h1 {
     text-align: center;
     color: white;
-    font-size: 13px;
+    font-size: 15px;
     margin-bottom: 35px;
 }
 
@@ -317,7 +317,7 @@ button.btn.btn-secondary.dropdown-toggle.dropdown2btn {
     align-items: flex-end;
     justify-content: space-between;
     position: absolute;
-    padding: 0 25px;
+    padding: 0 20px;
     width: 100%;
     bottom: 9px;
 }
@@ -401,7 +401,7 @@ button.btn.btn-secondary.dropdown-toggle.dropdown2btn {
 .inbox h1 {
     text-align: center;
     color: #e7edf2;
-    font-size: 13px;
+    font-size: 15px;
     margin-bottom: 40px;
 }
 
@@ -442,24 +442,24 @@ button.btn.btn-secondary.dropdown-toggle.dropdown2btn {
 }
 
 .mailtext2 p {
-    font-size: 11px;
+    font-size: 13px;
     margin-bottom: 0;
     color: white;
 }
-
 .mailtext2 h6 {
-    font-size: 9.5px;
+    font-size: 12.5px;
     color: white;
     margin-bottom: 0;
 }
 
 .mailtext h5 {
-    font-size: 9.5px;
+    font-size: 12.5px;
     color: #a7aabb;
 }
 
 .calander {
     width: 390px;
+    margin-right: 40px;
 }
 
 .calandertitle {
@@ -476,7 +476,7 @@ button.btn.btn-secondary.dropdown-toggle.dropdown2btn {
 .calandertitle h1 {
     text-align: center;
     color: white;
-    font-size: 13px;
+    font-size: 15px;
     margin-bottom: 0px;
 }
 
