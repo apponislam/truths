@@ -493,6 +493,7 @@ button.btn.btn-secondary.dropdown-toggle.dropdown2btn {
     width: 45px;
     font-family: "Montserrat", sans-serif;
     font-weight: 400;
+    font-size: 13px;
 }
 
 .calanderbody table td {
@@ -501,6 +502,7 @@ button.btn.btn-secondary.dropdown-toggle.dropdown2btn {
     width: 45px;
     font-family: "Montserrat", sans-serif;
     font-weight: 400;
+    font-size: 13px;
 }
 
 .notmonth {
